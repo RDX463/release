@@ -54,7 +54,7 @@ If your device does not change slot automatically, you can do it manually just f
 
 for eg.
 
-	$(which fastboot) devices
+        $(which fastboot) devices
 
         $(which fastboot) flash boot  <boot.img>
 
