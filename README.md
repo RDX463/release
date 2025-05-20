@@ -1,1 +1,1 @@
-## ChangeLogs For the Poco x5 Pro
+## ChangeLogs For the Poco X5 Pro
